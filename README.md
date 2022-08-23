@@ -1,4 +1,11 @@
 ## Hello, I am synxther, better known with how synk.Sx =)
+<div>
+
+<ul>
+ <li>🧑‍💻 Atualmente curso o 3° ano de tec. Redes de Computadores </li>
+ <li>📌Porém possuo grande interesse na área de desenvolvimento e segurança da informação.</li>
+</ul>
+</div>
 <!--
 <div>
   <a href="https://github.com/synxther">
