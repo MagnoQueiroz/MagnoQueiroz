@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/synxther">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=synxther&layout=compact&show_icons=true&theme=gotham&count_private=true&include_all_commits=true"/>
- <img margin-top="-50em" width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synxther&layout=compact&langs_count=8&theme=gotham"/>
+ <img margin-top="-1000em" width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synxther&layout=compact&langs_count=8&theme=gotham"/>
 </div>   
  <!--
    ![image](https://github-readme-stats.vercel.app/api?username=synxther&count_private=true&theme=gotham&show_icons=true&hide_title=true&include_all_commits=true)
