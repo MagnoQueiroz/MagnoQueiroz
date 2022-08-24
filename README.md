@@ -1,6 +1,11 @@
 # 💫 About Me:
-🧑‍💻 Atualmente curso o 3° ano de tec. Redes de Computadores<br>📌Porém possuo grande interesse na área de desenvolvimento e segurança da informação.
-
+<p> 
+ 🧑‍💻 I am currently taking the 3rd year of tec. Computer network
+</p>
+<br>
+<p>
+  📌but only one great enthusiast in the area of development and information security
+</p>
 
 ## 🌐 Socials:
 <div align="left">
