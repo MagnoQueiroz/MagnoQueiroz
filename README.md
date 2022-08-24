@@ -2,7 +2,6 @@
 <p> 
  🧑‍💻 I am currently taking the 3rd year of tec. Computer network
 </p>
-<br>
 <p>
   📌but only one great enthusiast in the area of development and information security
 </p>
