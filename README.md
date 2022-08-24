@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/synxther">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=synxther&layout=compact&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synxther&layout=compact&langs_count=8&theme=gotham"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=synxther&show_icons=true&theme=gotham&include_all_commits=true&count_private=false"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synxther&layout=compact&langs_count=8&theme=gotham"/>
 </div>   
  <!--
    ![image](https://github-readme-stats.vercel.app/api?username=synxther&count_private=true&theme=gotham&show_icons=true&hide_title=true&include_all_commits=true)
