@@ -8,9 +8,6 @@
 <img src=https://img.shields.io/badge/discord-3611ad.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/felipe-queiroz-6b9754240/" target="_blank">
-<img src=https://img.shields.io/badge/discord-%231E77B5.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/felipe-queiroz-6b9754240/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/synxther" target="_blank">
