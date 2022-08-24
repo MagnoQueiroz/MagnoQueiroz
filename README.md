@@ -32,7 +32,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=synxther&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&hide=contribs&custom_title=SYNXTHER)<br/>
+![](https://github-readme-stats.vercel.app/api?username=synxther&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&hide=contribs&custom_title=SYNXTHER)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=synxther&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=synxther&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
