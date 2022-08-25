@@ -3,8 +3,9 @@
  🧑‍💻 I am currently taking the 3rd year of tec. Computer network
 </p>
 <p>
-  📌but only one great enthusiast in the area of development and information security
+  📌 but only one great enthusiast in the area of development and information security
 </p>
+<p>⚡ amateur programmer who seeks to innovate himself</p>
 
 ## 🌐 Socials:
 <div align="left">
