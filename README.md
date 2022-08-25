@@ -47,5 +47,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=synxther&repo=codeInfo_webmobile&theme=radical)](https://github.com/synxther/codeInfo_webmobile)-->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=synxther&icon=0&color=0)](https://visitcount.itsvg.in)
