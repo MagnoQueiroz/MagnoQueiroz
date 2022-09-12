@@ -6,6 +6,7 @@
   📌 but only one great enthusiast in the area of development and information security
 </p>
 <p>⚡ amateur programmer who seeks to innovate himself</p>
+<p>📚 studying to be a Front-End developer</p>
 
 ## 🌐 Socials:
 <div align="left">
