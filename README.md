@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=503&lines=HI%2C+I'M+SYNXTHER,+WELCOME+TO+ME+PROFILE+=D;HI%2C+I'M+SYNXTHER,+WELCOME+TO+ME+PROFILE+=D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=503&lines=HI%2C+I'M+SYNXTHER.+WELCOME+TO+ME+PROFILE+=D;HI%2C+I'M+SYNXTHER,+WELCOME+TO+ME+PROFILE+=D)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 <p> 
