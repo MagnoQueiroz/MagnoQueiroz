@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+i'm+Felipe+Magno+=D"> 
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+i'm+Synxther+=D"> 
 </div>
 
 ## 💫 About Me:
