@@ -59,6 +59,12 @@
 <a href="https://stackoverflow.com/users/14256647/synxther/" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
+ <a href="mailto:felipehmagnop@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23c5221d.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+  <a href="https://github.com/MagnoQueiroz" target="_blank">
+  <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt=gmail style="margin-bottom: 5px;"/>
+
 </div>
 <!--
 ## 🖥️ Projects: 
@@ -87,3 +93,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MagnoQueiroz&repo=codeInfo_webmobile&theme=radical)](https://github.com/synxther/codeInfo_webmobile)
 
 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03b787&height=120&section=footer"/>
