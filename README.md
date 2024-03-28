@@ -24,15 +24,26 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=MagnoQueiroz&show_icons=true&theme=gotham&hide_border=false&count_private=true&hide=contribs&custom_title=SYNXTHER&include_all_commits=true)<br/> -->
 
 <div align="center">
-     <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MagnoQueiroz&theme=gotham&hide_border=false" />
+     <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MagnoQueiroz&theme=gotham&hide_border=false" />&nbsp;
      <img align="center" height="188em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnoQueiroz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+
+#### ⌨️ Stacks:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![C](https://img.shields.io/badge/c-%2331A8FF.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+
+#### ⚙️ Works Tools:
+![VScode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) &nbsp;
+![CLion](https://img.shields.io/badge/CLion-%2313E088?style=for-the-badge&logo=clion&logoColor=white) &nbsp;
+![Terminal](https://img.shields.io/badge/Terminal-black.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+
+#### 💾 Operating system(OS):
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 ## 🌐 Socials:
 <div align="left">
@@ -49,8 +60,17 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 </div>
-
 <!--
+## 🖥️ Projects: 
+<div align=center>
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MagnoQueiroz&repo=Equac_second&theme=gotham)](https://github.com/synxther/Equac_second)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MagnoQueiroz&repo=Portifolio&theme=gotham)](https://github.com/MagnoQueiroz/Portifolio)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MagnoQueiroz&repo=cronometro&theme=gotham)](https://github.com/MagnoQueiroz/cronometro)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MagnoQueiroz&repo=solution_beecrowd&theme=gotham)](https://github.com/MagnoQueiroz/solution_beecrowd)&nbsp;&nbsp;
+</div>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=synxther&theme=radical&hide_border=false&include_all_commits=true&count_private=true<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MagnoQueiroz&theme=gotham&hide_border=false)<br/>
