@@ -93,4 +93,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MagnoQueiroz&repo=codeInfo_webmobile&theme=radical)](https://github.com/synxther/codeInfo_webmobile)
 
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03b787&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02dda6&height=120&section=footer"/>
