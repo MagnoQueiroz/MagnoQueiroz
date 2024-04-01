@@ -1,7 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02dda6&height=120&section=header"/>
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=503&lines=HI%2C+I'M+SYNXTHER.+WELCOME+TO+ME+PROFILE+=D;HI%2C+I'M+SYNXTHER,+WELCOME+TO+ME+PROFILE+=D)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=500&size=30&pause=1000&color=08CD9E&center=true&vCenter=true&random=false&width=490&lines=HI%2C+I'M+SYXNTHER.+WELCOME+ME+PROFILE+%3DD;I+EXPECT+CAN+HELP+YOU+WITH+SOMETHING+%3D)" alt="Typing SVG" /></a>
 </div>
 
 ## 💫 About Me:
