@@ -21,7 +21,7 @@
 </p>
 
 ## 📊 Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=MagnoQueiroz&show_icons=true&theme=gotham&hide_border=false&count_private=true&hide=contribs&custom_title=SYNXTHER&include_all_commits=true)<br/> -->
+<!--![](https://github-readme-stats.vercel.app/api?username=MagnoQueiroz&show_icons=true&theme=gotham&hide_border=false&count_private=true&hide=contribs&custom_title=SYNXTHER&include_all_commits=true&rank_icon=github)<br/> -->
 
 <div align="center">
      <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MagnoQueiroz&theme=gotham&hide_border=true" />&nbsp;
