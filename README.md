@@ -34,13 +34,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
-![C](https://img.shields.io/badge/c-%2331A8FF.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2331A8FF.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 
 
 #### ⚙️ Works Tools:
 ![VScode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) &nbsp;
 ![CLion](https://img.shields.io/badge/CLion-%2313E088?style=for-the-badge&logo=clion&logoColor=white) &nbsp;
-![Terminal](https://img.shields.io/badge/Terminal-black.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![GIT](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![Terminal](https://img.shields.io/badge/Terminal-black.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
 
 #### 💾 Operating system(OS):
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
