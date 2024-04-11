@@ -24,7 +24,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=MagnoQueiroz&show_icons=true&theme=gotham&hide_border=false&count_private=true&hide=contribs&custom_title=SYNXTHER&include_all_commits=true&rank_icon=github)<br/> -->
 
 <div align="center">
-     <img width="540em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MagnoQueiroz&theme=gotham&hide_border=true" />&nbsp;
+     <img width="500em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MagnoQueiroz&theme=gotham&hide_border=true" />&nbsp;
      <img align="center" height="188em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnoQueiroz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
